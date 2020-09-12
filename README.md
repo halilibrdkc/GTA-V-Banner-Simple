@@ -11,3 +11,4 @@ Support Server: https://discord.gg/gaaGsr5
 
 Copyright © 2020 All Rights Reserved
 
+<a href="https://hellord.design/"><img src="https://i.ibb.co/dfB09S6/sadelogo-gta-v.gif" alt="sadelogo-gta-v" border="0"></a>
